@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import ast; ast.parse\\(open\\('bourse_direct_scraper.py'\\).read\\(\\)\\); print\\('bourse_direct OK'\\); ast.parse\\(open\\('trade_republic_scraper.py'\\).read\\(\\)\\); print\\('trade_republic OK'\\)\")"
+    ]
+  }
+}

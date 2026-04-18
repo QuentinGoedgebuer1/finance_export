@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Exports (données sensibles)
+exports/
+
+# Credentials / config locaux
+*.env
+.env*
+config.local.*
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Chrome / Selenium
+chromedriver*
+*.crdownload
