@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-python gui.py
+.venv\Scripts\python.exe gui.py
 pause
